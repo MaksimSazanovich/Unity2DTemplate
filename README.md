@@ -1,6 +1,6 @@
 # ⚡Unity2DTemplate⚡
 
-Unity 2D Template is designed to facilitate and speed up development at the initial stage. This template contains Zenject, Hierarchy 2, Scene Swither, DoTween and the initial folder hierarchy.
+Unity 2D Template is designed to facilitate and speed up development at the initial stage. This template contains [Zenject](https://github.com/modesttree/Zenject), Hierarchy 2, Scene Swither, DoTween and the initial folder hierarchy.
 
 
 To use the template, you need to download it, then open it via Unity Hub
