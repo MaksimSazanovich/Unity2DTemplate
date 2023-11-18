@@ -5,7 +5,7 @@ Unity 2D Template is designed to facilitate and speed up development at the init
 
 To use the template, you need to download it, then open it via Unity Hub
 
-!Don't forget to rename the project
+❗Don't forget to rename the project
 
 Enjoy using it!
 
