@@ -226,7 +226,7 @@ GameObject:
   - component: {fileID: 1122559133}
   - component: {fileID: 1122559132}
   m_Layer: 0
-  m_Name: GameBootstrupper
+  m_Name: GameBootstrapper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
